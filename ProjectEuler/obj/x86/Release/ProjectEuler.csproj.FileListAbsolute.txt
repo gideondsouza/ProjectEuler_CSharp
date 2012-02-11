@@ -1,0 +1,10 @@
+C:\Documents and Settings\gideon\my documents\visual studio 2010\Projects\ProjectEuler\ProjectEuler\bin\Release\ProjectEuler.exe
+C:\Documents and Settings\gideon\my documents\visual studio 2010\Projects\ProjectEuler\ProjectEuler\bin\Release\ProjectEuler.pdb
+C:\Documents and Settings\gideon\my documents\visual studio 2010\Projects\ProjectEuler\ProjectEuler\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\gideon\my documents\visual studio 2010\Projects\ProjectEuler\ProjectEuler\obj\x86\Release\ProjectEuler.exe
+C:\Documents and Settings\gideon\my documents\visual studio 2010\Projects\ProjectEuler\ProjectEuler\obj\x86\Release\ProjectEuler.pdb
+D:\Gid\Coding\ProjectEuler\ProjectEuler\obj\x86\Release\ProjectEuler.exe
+D:\Gid\Coding\ProjectEuler\ProjectEuler\obj\x86\Release\ProjectEuler.pdb
+D:\Gid\Coding\ProjectEuler\ProjectEuler\bin\Release\ProjectEuler.exe
+D:\Gid\Coding\ProjectEuler\ProjectEuler\bin\Release\ProjectEuler.pdb
+D:\Gid\Coding\ProjectEuler\ProjectEuler\obj\x86\Release\ResolveAssemblyReference.cache
