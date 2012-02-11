@@ -16,9 +16,9 @@ namespace ProjectEuler.Problems
     {
         public void Run()
         {
-            for (int i = 2; i < int.MaxValue; i++)//yep the value is under int.Max =D
-            {
-                if (DiviTill(i, 7))
+            for (int i = 21; i < int.MaxValue; i++)//yep the value is under int.Max =D
+            {//optimize. Go from 21
+                if (DiviTill(i,20))
                 {
                     Console.WriteLine(i);
                     break;
