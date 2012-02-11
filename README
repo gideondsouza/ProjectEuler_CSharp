@@ -1,3 +1,5 @@
 This is a simple little set of solutions to the problems on ProjectEuler : [http://projecteuler.net](http://projecteuler.net)
 
+There's a little bit of a framework, implement a problem by Inheriting IProblem, reference this in the main and it'll run. It also records the milliseconds elapsed.
+
 Do give me a buzz if you find errors or mistakes or improvements :)

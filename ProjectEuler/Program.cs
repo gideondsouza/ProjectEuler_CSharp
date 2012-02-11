@@ -18,7 +18,7 @@ namespace ProjectEuler
             sp.Start();
             prob.Run();
             sp.Stop();
-            Console.WriteLine("Time: " + sp.ElapsedMilliseconds.ToString());
+            Console.WriteLine("Time Elapsed in Milliseconds: " + sp.ElapsedMilliseconds.ToString());
             Console.ReadKey();
         }
 
