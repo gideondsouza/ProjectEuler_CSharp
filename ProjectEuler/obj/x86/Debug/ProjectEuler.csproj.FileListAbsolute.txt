@@ -3,3 +3,8 @@ c:\documents and settings\gideon\my documents\visual studio 2010\Projects\Projec
 c:\documents and settings\gideon\my documents\visual studio 2010\Projects\ProjectEuler\ProjectEuler\obj\x86\Debug\ResolveAssemblyReference.cache
 c:\documents and settings\gideon\my documents\visual studio 2010\Projects\ProjectEuler\ProjectEuler\obj\x86\Debug\ProjectEuler.exe
 c:\documents and settings\gideon\my documents\visual studio 2010\Projects\ProjectEuler\ProjectEuler\obj\x86\Debug\ProjectEuler.pdb
+D:\Gid\Coding\ProjectEuler\ProjectEuler\obj\x86\Debug\ProjectEuler.exe
+D:\Gid\Coding\ProjectEuler\ProjectEuler\obj\x86\Debug\ProjectEuler.pdb
+D:\Gid\Coding\ProjectEuler\ProjectEuler\bin\Debug\ProjectEuler.exe
+D:\Gid\Coding\ProjectEuler\ProjectEuler\bin\Debug\ProjectEuler.pdb
+D:\Gid\Coding\ProjectEuler\ProjectEuler\obj\x86\Debug\ResolveAssemblyReference.cache

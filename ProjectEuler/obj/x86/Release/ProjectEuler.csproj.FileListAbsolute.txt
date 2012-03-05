@@ -8,3 +8,8 @@ D:\Gid\Coding\ProjectEuler\ProjectEuler\obj\x86\Release\ProjectEuler.pdb
 D:\Gid\Coding\ProjectEuler\ProjectEuler\bin\Release\ProjectEuler.exe
 D:\Gid\Coding\ProjectEuler\ProjectEuler\bin\Release\ProjectEuler.pdb
 D:\Gid\Coding\ProjectEuler\ProjectEuler\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\gideon\Desktop\Playground\thegiddygeek-ProjectEuler_CSharp-e83ee22\thegiddygeek-ProjectEuler_CSharp-e83ee22\ProjectEuler\obj\x86\Release\ProjectEuler.exe
+C:\Users\gideon\Desktop\Playground\thegiddygeek-ProjectEuler_CSharp-e83ee22\thegiddygeek-ProjectEuler_CSharp-e83ee22\ProjectEuler\obj\x86\Release\ProjectEuler.pdb
+C:\Users\gideon\Desktop\Playground\thegiddygeek-ProjectEuler_CSharp-e83ee22\thegiddygeek-ProjectEuler_CSharp-e83ee22\ProjectEuler\bin\Release\ProjectEuler.exe
+C:\Users\gideon\Desktop\Playground\thegiddygeek-ProjectEuler_CSharp-e83ee22\thegiddygeek-ProjectEuler_CSharp-e83ee22\ProjectEuler\bin\Release\ProjectEuler.pdb
+C:\Users\gideon\Desktop\Playground\thegiddygeek-ProjectEuler_CSharp-e83ee22\thegiddygeek-ProjectEuler_CSharp-e83ee22\ProjectEuler\obj\x86\Release\ResolveAssemblyReference.cache
