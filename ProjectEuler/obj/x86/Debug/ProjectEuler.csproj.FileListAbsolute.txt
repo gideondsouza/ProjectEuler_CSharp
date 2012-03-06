@@ -8,3 +8,5 @@ D:\Gid\Coding\ProjectEuler\ProjectEuler\obj\x86\Debug\ProjectEuler.pdb
 D:\Gid\Coding\ProjectEuler\ProjectEuler\bin\Debug\ProjectEuler.exe
 D:\Gid\Coding\ProjectEuler\ProjectEuler\bin\Debug\ProjectEuler.pdb
 D:\Gid\Coding\ProjectEuler\ProjectEuler\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\gideon\Desktop\Playground\ProjectEuler\ProjectEuler_CSharp\ProjectEuler\obj\x86\Debug\ProjectEuler.exe
+C:\Users\gideon\Desktop\Playground\ProjectEuler\ProjectEuler_CSharp\ProjectEuler\obj\x86\Debug\ProjectEuler.pdb
