@@ -11,7 +11,7 @@ namespace ProjectEuler
     {
         static void Main(string[] args)
         {
-            RunProblem(new Problem10());
+            RunProblem(new Problem11());
         }
         static void RunProblem(IProblem prob)
         {
