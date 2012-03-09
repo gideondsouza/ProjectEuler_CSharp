@@ -18,3 +18,4 @@ D:\Gid\Coding\ProjectEuler\ProjectEuler_CSharp\ProjectEuler\obj\x86\Debug\Projec
 D:\Gid\Coding\ProjectEuler\ProjectEuler_CSharp\ProjectEuler\bin\Debug\ProjectEuler.exe
 D:\Gid\Coding\ProjectEuler\ProjectEuler_CSharp\ProjectEuler\bin\Debug\ProjectEuler.pdb
 D:\Gid\Coding\ProjectEuler\ProjectEuler_CSharp\ProjectEuler\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\gideon\Desktop\Playground\ProjectEuler\ProjectEuler_CSharp\ProjectEuler\bin\Debug\ProjectEuler.exe.config
