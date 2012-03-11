@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Diagnostics;
 using ProjectEuler.Problems;
+using System.Drawing;
 
 namespace ProjectEuler
 {
@@ -11,8 +12,9 @@ namespace ProjectEuler
     {
         static void Main(string[] args)
         {
-            RunProblem(new Problem17());
+            RunProblem(new Problem21());
         }
+        //maybe this could change into some kind of reflection program that could pick up the latest program
         static void RunProblem(IProblem prob)
         {
             Stopwatch sp = new Stopwatch();
