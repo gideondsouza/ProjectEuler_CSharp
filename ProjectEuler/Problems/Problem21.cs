@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Diagnostics;
 
-namespace ProjectEuler
+namespace ProjectEuler.Problems
 {
     static class ExtensionUtil_long
     {//learned about this method from here http://stackoverflow.com/a/5793356/368070
@@ -78,22 +78,18 @@ namespace ProjectEuler
     }
     class Problem21 : IProblem
     {
-
         public void Run()
         {
-
             int s = 0;
-             s.Divisors();
-            //bool[] am = new bool[10000];
-            //for (int i = 0; i < 10000; i++)
-            //{
-            //    var is_a = IsAmicable(i);
-            //    if (is_a.Item1)
-            //    {
-            //        s += i;
-            //    }
-            //}
-            
+            bool[] am = new bool[10000];
+            for (int i = 0; i < 10000; i++)
+            {
+                var is_a = IsAmicable(i);
+                if (is_a.Item1)
+                {
+                    s += i;
+                }
+            }
             Console.WriteLine(s);
         }
         //some linq-iness

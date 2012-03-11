@@ -4,7 +4,6 @@ using System.Linq;
 using System.Text;
 using System.Diagnostics;
 using ProjectEuler.Problems;
-using System.Drawing;
 
 namespace ProjectEuler
 {
