@@ -11,7 +11,7 @@ namespace ProjectEuler
     {
         static void Main(string[] args)
         {
-            RunProblem(new Problem24());
+            RunProblem(new Problem25());
         }
         //maybe this could change into some kind of reflection program that could pick up the latest program
         static void RunProblem(IProblem prob)
