@@ -18,9 +18,10 @@ Example `Problem1.cs`:
 Then:
 
     static void Main()
-    {
+    { 
+       //method signature => RunProblem(IProblem p)
        RunProblem(new Problem1());
-    } //method signature => RunProblem(IProblem p)
+    }
 
 
 Do give me a buzz if you find errors or mistakes or improvements :)
